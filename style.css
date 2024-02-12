@@ -1,0 +1,25 @@
+body
+{
+  background-color: rgba(0, 81, 255, 0.582);  
+}
+
+.s1
+{
+    font-size: 19px;
+    margin-left: 10px;
+    color: rgba(224, 108, 81, 0.9);
+}
+
+.s2
+{
+    font-size: 19px;
+    float: right; 
+    margin-right: 10px;
+    color: rgba(224, 108, 81, 0.9);
+}
+
+.p3
+{
+    color: rgba(224, 108, 81, 0.9);
+    font-size: 19px;
+}
